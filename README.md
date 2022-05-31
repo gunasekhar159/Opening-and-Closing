@@ -71,15 +71,15 @@ plt.show()
 
 ### Display the input Image
 
-![OUTPUT](?raw=true)
+![OUTPUT](https://github.com/gunasekhar159/Opening-and-Closing/blob/main/11a.jpeg?raw=true)
 
 ### Display the result of Opening
 
-![OUTPUT](?raw=true)
+![OUTPUT](https://github.com/gunasekhar159/Opening-and-Closing/blob/main/11b.png?raw=true)
 
 ### Display the result of Closing
 
-![OUTPUT](?raw=true)
+![OUTPUT](https://github.com/gunasekhar159/Opening-and-Closing/blob/main/11c.png?raw=true)
 
 ## Result
 Thus the Opening and Closing operation is used in the image using python and OpenCV.
